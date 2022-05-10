@@ -1,8 +1,9 @@
 p{
-    color: red;
+    color: green;
+    font-size: 100px;
 }
 body {
     background-image: url('technobladeuzb.jpg');
     background-repeat: no-repeat;
-    background-size: 500px;
+    background-size: 1000px;
 }
