@@ -1,18 +1,17 @@
 body {
     padding: 0;
-    margin: 0;
+    margin: 0;   
+    background-image: url('background.jpg');
     text-align: center;
-    background-image: url("background.jpg");
-    background-repeat: repeat;
-    background-size: 500px;
 }
 p{
-    font-size: 20px;
     color: white;
     background-color: red;
     border-color: #000000;
     border-radius: 50px;
     border-collapse: 100px;
+    font-size: 30px;
+    text-align: center;
     
 }
 #yt{
@@ -21,6 +20,8 @@ p{
     border-color: black;
     border-radius: 20px;
     border-collapse: 20px;
+    font-size: 30px;
+    text-align: center;
     }
 #tg{
     background-color: #40cbff;
@@ -28,21 +29,46 @@ p{
     border-color: black;
     border-radius: 20px;
     border-collapse: 20px;
+    font-size: 30px;
+    text-align: center;
 }
 #dw{
     background-color: red;
     border-color: black;
     border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
 }
 #tool{
     background-color: #ffc700;
     border-color: black;
     color: red;
     border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
 }
 #uz{
     background-color: blue;
     border-color: black;
     color: #11ff00;
     border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+#back{
+    background-color: black;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    font-size: 30px;
+}
+#media{
+    background-color: #00d5ff;
+    border-color: greenyellow;
+    border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+#br{
+    font-size: 250px;
 }
