@@ -72,3 +72,27 @@ p{
 #br{
     font-size: 250px;
 }
+#tt{
+    background-color: black;
+    border-color: white;
+    border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+#in{
+   background-color: white;
+    border-color: red;
+    border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
+    color: red; 
+}
+#oa{
+    background-color: #ff5e00;
+    border-color: white;
+    border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
